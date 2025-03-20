@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Ovo&family=Petit+Formal+Script&display=swap');
+
+nav {
+	background: #5E716D;
+	font-family: Ovo;
+	font-size: 40px;
+	font-style: normal;
+	font-weight: 400;
+	color: #FCD6D2;
+}
