@@ -13,6 +13,7 @@ nav {
 	font-weight: 400;
 	color: #FCD6D2;
 	justify-content: space-between;
+	border: 1px, solid, transparent;
 	
 }
 nav img {
@@ -50,8 +51,7 @@ h3 img {
 	width: 1440px;
     height: 800px;
     flex-shrink: 0;
-    padding: 0px;
-    margin: 0px;
     background: #C8D9C8;
+    boarder: 1px, soild, transparent;
 
 }
