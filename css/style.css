@@ -1,10 +1,57 @@
-@import url('https://fonts.googleapis.com/css2?family=Ovo&family=Petit+Formal+Script&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Petit+Formal+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ovo&display=swap');
+
+body{
+	font-family: "Ovo", serif;
+	font-style: normal;
+}
 nav {
 	background: #5E716D;
-	font-family: Ovo;
+	display: flex;
 	font-size: 40px;
-	font-style: normal;
 	font-weight: 400;
 	color: #FCD6D2;
+	justify-content: space-between;
+	
+}
+nav img {
+	width: 300px;
+
+}
+ul {
+   list-style: none;
+   margin: 0;
+   padding: 0;
+   display: flex;
+   gap: 46px;
+}
+
+a {
+	font-size: 30px;
+	font font-weight: 400;
+	text-decoration: none;
+	color: #FCD6D2;
+}
+
+h1{
+	background:#DCDED6;
+	color: #5E716D;
+    text-align: center;
+    font-family: "Petit Formal Script";
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 2px;
+}
+
+h3 img {
+	width: 1440px;
+    height: 800px;
+    flex-shrink: 0;
+    padding: 0px;
+    margin: 0px;
+    background: #C8D9C8;
+
 }
