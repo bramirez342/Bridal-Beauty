@@ -14,10 +14,11 @@ nav {
 	color: #FCD6D2;
 	justify-content: space-between;
 	border: 1px, solid, transparent;
+
 	
 }
 nav img {
-	width: 300px;
+	width: 200px;
 
 }
 ul {
@@ -32,6 +33,7 @@ a {
 	font-size: 30px;
 	font font-weight: 400;
 	text-decoration: none;
+	text-align: right, bottom;
 	color: #FCD6D2;
 }
 
@@ -49,7 +51,7 @@ h1{
 
 h3 img {
 	width: 1440px;
-    height: 800px;
+    height: 876px;
     flex-shrink: 0;
     background: #C8D9C8;
     boarder: 1px, soild, transparent;
