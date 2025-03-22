@@ -25,6 +25,25 @@ nav img {
 	boarder: 0px;
 }
 
+@media screen and (max-width: 480px) {
+      nav{
+      	flex-direction: column;
+      }
+     
+      h1{
+      	font-size: 20px;
+      }
+
+      img {
+      	max-width: 100%;
+      	height: auto;
+      }
+
+      footer{
+      	flex-direction: column;
+      }
+}
+
 ul {
    list-style: none;
    margin: 0;
